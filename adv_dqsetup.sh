@@ -4,18 +4,18 @@
 # The latest version link can be copied from:
 # https://engineering-collibra.atlassian.net/wiki/spaces/DQ/pages/15251636954/Product+Download+Links+-+Collibra+DQ
 # A new link is released every 7 days due to signing issues with AWS.
-url="https://owl-packages.s3.amazonaws.com/owl-2022.04-SPARK301-package-full.tar.gz?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQM6KV6N26JCTUC77%2F20220502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220502T135634Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cbd83c8ccea3519361b28f6fa763afeff0cdd56c191d0df0687175e8e4fd6c1b"
-licenseKey="HKHZYKTKY18QKVDJAW9MDPJXZI9KKKAZFNNXOO8C90ZVP8GD:92F30DHC40NP3NJVC8XBFEHEXN4YSRHOIYFRDAXU4426HAOT:65536"
+url=""
+licenseKey=""
 
 # The following will be the postgres username and password used during setup. Change on login with dqUtils.
-postgresUsername="pguser"
-postgresPassword="dataQuality12!"
+postgresUsername=""
+postgresPassword=""
 
 # This will be the DQ user and location it is created. /home/<username>
 # Log in weith username and userpass as necessary for service maintenance. 
 # Change on login.
 env1="/home/user"
-userPass="Collibra123!@"
+userPass=""
 # ------------------------------------------------------------------------------------------------
 
 #xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
